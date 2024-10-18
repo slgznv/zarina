@@ -1,0 +1,143 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise - Dreamscape English Academy</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header, footer {
+            background-color: #66023c;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        main {
+            padding: 2em;
+            background-color: white;
+            max-width: 800px;
+            margin: 20px auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        section {
+            margin-bottom: 2em;
+        }
+        .menu-item {
+            background-color: #eee;
+            border-left: 5px solid #d35400;
+            padding: 1em;
+            margin-bottom: 1em;
+        }
+        .menu-item p {
+            margin: 0;
+            font-size: 1.2em;
+            color: #d35400;
+        }
+        .menu-item ul {
+            padding-left: 20px;
+        }
+        .menu-item li {
+            line-height: 2;
+        }
+        footer p {
+            margin: 0;
+        }
+    </style>
+<style>
+
+ .task-button {
+            width: 170px; /* 100px */
+            height: 50px; /* высота кнопки для квадратной формы */
+            background-color: #d35400; /* оранжевый цвет */
+            border: none; /* убрать рамку */
+            color: white; /* цвет текста */
+            font-size: 24px; /* размер текста */
+            font-weight: bold; /* жирный текст */
+            text-align: center; /* выравнивание текста */
+            line-height: center; /* центрирование текста по вертикали */
+            cursor: pointer; /* указатель при наведении */
+            border-radius: 1px; /* скругление углов, если нужно */
+            justify-content: center; /* выравнивание по горизонтали */
+        }  
+
+        .task-button:hover {
+            background-color: darkorange; /* более тёмный оттенок при наведении */
+        
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dreamscape English Academy</h1>
+        <nav>
+            <ul>
+                <li><a href="About us.html"> About us </a></li>
+                <li><a href="Exercise.html">Exercise </a></li>
+                <li><a href="students.html">Our students </a></li>
+                <li><a href="contacts1.html">Contacts</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="exercise">
+            <h2> Lesson 6 </h2>
+<div class="menu-item">
+<h2> <center><I> Used to/ Get used to/ Be used to </I></center></h2>
+<div class="exercise">
+    <h3>Please watch rule</h3>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/t_cxc6g-04A?si=vOjh3vLQSZjayXat" title="YouTube vieo player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <input type="text" class="answer-input" placeholder="">
+ <img src="https://i.pinimg.com/originals/ce/0f/8b/ce0f8b3b7f49ac13f651a85a537688d3.jpg" alt="PS" width = "600" height= "400">
+
+<h2> <center> <I>Text: Adjusting to New Environments </I></center></h2>
+<BR> Adapting to a new environment, whether it's a new city, job, or school, can be quite challenging. Most people used to live in one place for a long time before deciding to move. <strong>Relocation</strong> often requires time and effort to get used to new surroundings, culture, and even weather. For example, someone who moves from a tropical climate to a colder region will need to get used to the <strong>harsh</strong> winters, something they might have never experienced before.</BR>
+
+<br>Another major aspect of moving to a new place is getting accustomed to local customs and traditions. At first, these might seem unfamiliar or even <strong>alien</strong>, but gradually, with time, people can become used to them. For instance, if you move to a country where people greet each other with a kiss on the cheek, this might seem strange at first, but eventually, you’ll get used to this greeting style.
+</BR>
+
+<br> Moreover, professional life can also demand <strong>adjustments</strong>. When starting a new job, most people are not used to the different company culture, 
+ <strong>expectations</strong>, and work rhythm. In such situations, one must quickly get used to the
+ <strong>demands</strong> of the job to succeed. Even simple tasks, like using new software, can feel 
+ <strong>overwhelming</strong>, but over time, you’ll get used to the technology and perform tasks    
+<strong>efficiently</strong>.</BR>
+
+<br>For students, entering a new school or university presents similar challenges. They are often used to their old learning habits, schedules, and ways of studying, but in a new academic environment, they need to get used to different methods of teaching, grading systems, and peer interactions. Adapting to these new routines might seem <strong>daunting</strong> at first, but over time, students typically become used to the academic expectations and social norms.</BR>
+ <br>In conclusion, the process of adapting to new environments, whether social, professional, or educational, can be tough. However, with <strong>persistence</strong>, individuals can get used to these new situations and eventually feel comfortable in them.</BR>
+
+ <h2><strong><I> <center>New words:</center></I></strong></h2>
+<br> <strong>Relocation </strong> – переселение, перемещение </br>
+<br> <strong>Harsh </strong>– суровый </br>
+<br> <strong>Alien</strong>– чужой, инородный </br>
+<br> <strong>Adjustments</strong>– адаптации, корректировки </br>
+<br> <strong>Efficiently</strong>– эффективно </br>
+<br> <strong>Demands</strong>– требования</br>
+<br> <strong>Expectations </strong>– ожидания</br>
+<br> <strong>Overwhelming</strong> – подавляющий</br>
+<br> <strong>Persistence </strong> – настойчивость</br>
+<br> <strong>Daunting </strong>– пугающий</br>
+
+<body> 
+	<br>  <a href="task6.html" button class="task-button">Lets do tasks(click the button)</button>  </br>
+
+</body> 
+</div>
